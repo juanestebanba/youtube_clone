@@ -17,6 +17,8 @@
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.6",
     "@mui/styled-engine": "^5.11.0",
+    "axios": "^1.2.4",
+    "dotenv": "^16.0.3",
     "mui": "^0.0.1",
     "react-router-dom": "^6.7.0"
   },

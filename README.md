@@ -1,5 +1,9 @@
 
-Youtube course: voy en minuto 40 - sidebar component 
+Youtube course: voy en minuto 1:25:50
+
+OJO: Se arrelgó con este cmbio en el archivo vite.config.js:
+
+https://stackoverflow.com/questions/71083110/vue-uncaught-referenceerror-process-is-not-defined
 
 https://www.youtube.com/watch?v=dyFVwXROzZk
 
